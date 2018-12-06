@@ -1,6 +1,6 @@
 # JMS 04 December 2018
 #     Python script to read GAMESS MD trajectory from output file and save as xmol
-#     and process data.
+#     and process data. Beta version
 import re
 
 class gamess(object): # Class to extract trajectory from GAMESS file
