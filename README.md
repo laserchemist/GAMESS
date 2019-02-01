@@ -1,4 +1,4 @@
-# GAMESS
+# GAMESS_read
 Project to read GAMESS output files and extract properties, coordinates, and trajectories
 # JMS 04 December 2018
 # 1.4 JMS 25 January 2019
